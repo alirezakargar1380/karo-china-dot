@@ -5,7 +5,7 @@ mongoose.connect("mongodb://localhost:27017/test", {
   useNewUrlParser: true
 })
     .then((res) => {
-      console.log("connected...")
+      console.log("db connected...")
     })
     .catch((e) => { console.log(e) })
 
