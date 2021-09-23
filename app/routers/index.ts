@@ -1,5 +1,5 @@
 module.exports = (app: any) => {
-  app.use(
+  app.use("/api",
       require("./test")
   )
 }

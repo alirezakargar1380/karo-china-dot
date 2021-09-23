@@ -13,5 +13,5 @@ io.on('connection', (socket: any) => {
 });
 
 server.listen(3000,() => {
-    console.log('running on port http://localhost:3000')
+    console.log('running on port http://localhost:3000/api')
 })

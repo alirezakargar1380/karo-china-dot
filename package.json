@@ -22,7 +22,7 @@
     "mongoose": "^6.0.6",
     "nodemon": "^2.0.12",
     "socket.io": "^4.2.0",
-    "uuidv4": "^6.2.12"
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "ts-node": "^10.2.1",
